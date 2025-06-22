@@ -107,7 +107,7 @@ Stock Market Dashboard/
 
 ### ✅ 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/stock-market-dashboard.git
+git clone https://github.com/ChadubulaVani/EazyByts-Module-2.git
 cd stock-market-dashboard
 
 ```
